@@ -1,6 +1,6 @@
 import re
 import sys
-"""A123minusculas$%&([1-9]{3,3})([a-z]*)([]{3,3})s"""
+"""A123minusculas$%&"""
 class xpresionregular:
 	def __init__ (self,expresion):
 		self.expresion=expresion
